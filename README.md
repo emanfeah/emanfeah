@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanfeah
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in devops enginner 
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me emanfeah1@gmail.com
 
