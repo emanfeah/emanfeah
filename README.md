@@ -5,6 +5,7 @@ Software and DevOps engineer .
 
 <div id="webaddress">
 <a href="emanfeah1@gmail.com">emanfeah1@gmail.com</a>
+<a href="www.linkedin.com/in/emanfiyh/"> https://www.linkedin.com/in/emanfiyh/</a>
 </div>
 
 
@@ -19,10 +20,6 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 `Bachelor of Computer Science`
 
 `Full-Stack-Developer Nanodegree`
-
-__udacity__
-
-`web application architecture Managing Google`
 `
 DEVOPS Engineer in Saudi digital academy `
 ## Projects
