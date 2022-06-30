@@ -28,8 +28,8 @@ DEVOPS Engineer in Saudi digital academy `
 - CASTING_AGENCY : FEP - 2020: The Casting Agency models a company.
 - FYYURI : FEP - 2020:Fyyur is a musical venue and artist booking site.
 - TRIVIA : JAN - 2020: trivia is a web application to play trivia game with multiple categorie.
--Coffee Shop Full Stack: its Online coffee shop 
--Deploying a Flask API:In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild
+- Coffee Shop Full Stack: its Online coffee shop 
+- Deploying a Flask API:In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild
 <!-- ### Footer
 
 Last updated: June 2022 -->
